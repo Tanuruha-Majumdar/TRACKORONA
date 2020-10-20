@@ -8,11 +8,11 @@
 
 <table>
         <tr>
-            <td><img src = "app/TC_ABOUT.PNG" height = "480" width="270"></td>
-            <td><img src = "app/TC_STATS.PNG" height = "480" width="270"></td>
+            <td><img src = "TC_ABOUT.PNG" height = "480" width="270"></td>
+            <td><img src = "TC_STATS.PNG" height = "480" width="270"></td>
         </tr>
         <tr>
-            <td><img src = "app/TC_ADVICES.PNG" height = "480" width="270"></td>
-            <td><img src = "app/TC_MAP.PNG" height = "480" width="270"></td>
+            <td><img src = "TC_ADVICES.PNG" height = "480" width="270"></td>
+            <td><img src = "TC_MAP.png" height = "480" width="270"></td>
         </tr>
 </table>
